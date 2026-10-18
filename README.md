@@ -16,14 +16,7 @@ Open `index.html` in a browser, or serve the project with a local web server.
 
 ## Project files
 
-- `index.html` — portfolio-style site entry page
-- `styles.css` — custom layout and design
-- `script.js` — conversion logic
-- `05 Temperature conversion program.html` — original app version
-- `05 Temperature conversion program.css` — original styling
-- `05 Temperature conversion program.js` — original logic
-
-## GitHub Pages
-
-After enabling Pages in the repository settings, use the root folder (`/`) as the publishing source.
+- ` Temperature conversion program.html`
+- ` Temperature conversion program.css` 
+- ` Temperature conversion program.js` 
 
